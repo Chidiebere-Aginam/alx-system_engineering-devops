@@ -1,1 +1,1 @@
-Changing ownership of group and directory to staff
+changing owner, group to staff and another person
