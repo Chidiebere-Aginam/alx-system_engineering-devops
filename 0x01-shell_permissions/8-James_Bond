@@ -1,1 +1,2 @@
-All permission to other users only
+#!/bin/bash
+chmod 007 hello
