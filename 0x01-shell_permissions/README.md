@@ -1,1 +1,1 @@
-add execution permission to everybody
+Set mode of file
