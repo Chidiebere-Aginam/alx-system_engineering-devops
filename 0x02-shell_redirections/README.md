@@ -1,1 +1,1 @@
-Display the content of two files simultaneously
+Last line of a file
