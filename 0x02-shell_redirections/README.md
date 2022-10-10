@@ -1,1 +1,1 @@
-Delete all the Java files in the directory and subdirectory
+Count the number of directory and subdirectory
