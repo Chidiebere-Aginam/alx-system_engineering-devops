@@ -1,1 +1,1 @@
-Create a file with characters and symbols
+Save the current state of the directory
