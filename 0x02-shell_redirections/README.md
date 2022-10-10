@@ -1,1 +1,1 @@
-Save the current state of the directory
+Duplicate the last line of a file
