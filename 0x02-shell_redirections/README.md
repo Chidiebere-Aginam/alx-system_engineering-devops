@@ -1,1 +1,1 @@
-Display the third line of a file
+Create a file with characters and symbols
