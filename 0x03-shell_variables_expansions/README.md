@@ -1,1 +1,1 @@
-Create a script that counts the number of directories in the PATH
+script that prints the result of POWER divided by DIVIDE, followed by a new line
