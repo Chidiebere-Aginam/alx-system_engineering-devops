@@ -1,1 +1,1 @@
-script that prints the result of POWER divided by DIVIDE, followed by a new line
+Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
