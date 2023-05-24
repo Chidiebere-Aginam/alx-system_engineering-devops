@@ -41,7 +41,7 @@ defaults
 
 frontend sucremax-tech-frontend
     bind *:80
-    default_backend th3gr00t-tech-backend
+    default_backend sucremax-tech-backend
 
 backend sucremax-tech-backend
     balance roundrobin
